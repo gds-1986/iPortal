@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">4ae2f4992f427010c012bac62799b6ec</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 10:32:19</sys_created_on>
+        <sys_id>86e2f4992f427010c012bac62799b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit an Idea.SNC External</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_86e2f4992f427010c012bac62799b6ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 10:32:19</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iPortal">b74528492fc23010c012bac62799b6e8</application>
+        <file_path/>
+        <instance_id>9cd720bb6f5e7d404c327b2f5d3ee46e</instance_id>
+        <instance_name>dev10212</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_86e2f4992f427010c012bac62799b6ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">4ae2f4992f427010c012bac62799b6ec</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-17 10:32:19</sys_created_on><sys_id>86e2f4992f427010c012bac62799b6ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit an Idea.SNC External</sys_name><sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package><sys_policy/><sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_86e2f4992f427010c012bac62799b6ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-17 10:32:19</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-794792419</payload_hash>
+        <record_name>Submit an Idea.SNC External</record_name>
+        <reverted_from/>
+        <source>f33431012f39b010c012bac62799b6ee</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-08-04 10:23:36</sys_created_on>
+        <sys_id>e46370d92f427010c012bac62799b60c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17b10b0a0400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>a46370d94f427010f79f29c7578d0a0c</update_guid>
+        <update_guid_history>a46370d94f427010f79f29c7578d0a0c:-794792419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Submit an Idea.SNC External">a86370d92f427010c012bac62799b610</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-17 10:34:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>55cc67538fa54820a2935a4f917f7f11</sys_id>
+        <sys_metadata>86e2f4992f427010c012bac62799b6ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit an Idea.SNC External</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">97e637d7b5a34226b10d176cfa6b0fc4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_86e2f4992f427010c012bac62799b6ee</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_86e2f4992f427010c012bac62799b6ee">e46370d92f427010c012bac62799b60c</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-17 10:34:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

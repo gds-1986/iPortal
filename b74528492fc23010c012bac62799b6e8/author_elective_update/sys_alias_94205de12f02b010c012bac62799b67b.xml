@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_597700_iportal.GitHub</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:18:48</sys_created_on>
+        <sys_id>94205de12f02b010c012bac62799b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_597700_iportal.GitHub</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_update_name>sys_alias_94205de12f02b010c012bac62799b67b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:18:48</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iPortal">b74528492fc23010c012bac62799b6e8</application>
+        <file_path/>
+        <instance_id>9cd720bb6f5e7d404c327b2f5d3ee46e</instance_id>
+        <instance_name>dev10212</instance_name>
+        <name>sys_alias_94205de12f02b010c012bac62799b67b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_597700_iportal.GitHub</id><multiple_connections>false</multiple_connections><name>GitHub</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-18 07:18:48</sys_created_on><sys_id>94205de12f02b010c012bac62799b67b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_597700_iportal.GitHub</sys_name><sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package><sys_policy/><sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope><sys_update_name>sys_alias_94205de12f02b010c012bac62799b67b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-18 07:18:48</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1003285307</payload_hash>
+        <record_name>x_597700_iportal.GitHub</record_name>
+        <reverted_from/>
+        <source>3b45ac492fc23010c012bac62799b674</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:18:49</sys_created_on>
+        <sys_id>d13019612f02b010c012bac62799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b58207bc70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:18:49</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>d93019612002b01009c78a8bf4b4c1fe</update_guid>
+        <update_guid_history>d93019612002b01009c78a8bf4b4c1fe:1003285307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-18 07:19:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>193a86616246416693de8d0efec83a04</sys_id>
+        <sys_metadata>94205de12f02b010c012bac62799b67b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_597700_iportal.GitHub</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">97e637d7b5a34226b10d176cfa6b0fc4</sys_scope_delete>
+        <sys_update_name>sys_alias_94205de12f02b010c012bac62799b67b</sys_update_name>
+        <sys_update_version display_value="sys_alias_94205de12f02b010c012bac62799b67b">d13019612f02b010c012bac62799b6ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 07:19:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

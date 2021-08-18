@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="revenue" label="Revenue" language="en" table="x_597700_iportal_idea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>revenue</element>
+            <help/>
+            <hint/>
+            <label>Revenue</label>
+            <language>en</language>
+            <name>x_597700_iportal_idea</name>
+            <plural>Revenues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 15:51:18</sys_created_on>
+            <sys_id>d1527c852f063010c012bac62799b6be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Revenue</sys_name>
+            <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+            <sys_update_name>sys_documentation_x_597700_iportal_idea_revenue_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 15:51:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

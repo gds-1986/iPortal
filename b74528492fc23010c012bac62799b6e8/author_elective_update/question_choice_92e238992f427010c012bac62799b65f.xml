@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref display_value="Concept/Idea">cc9ba4012f063010c012bac62799b62d</published_ref>
+        <question display_value="Solution Stage">dee238992f427010c012bac62799b653</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 10:32:20</sys_created_on>
+        <sys_id>92e238992f427010c012bac62799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concept/Idea</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_update_name>question_choice_92e238992f427010c012bac62799b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 10:32:20</sys_updated_on>
+        <text>Concept/Idea</text>
+        <value>idea</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=92e238992f427010c012bac62799b65f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iPortal">b74528492fc23010c012bac62799b6e8</application>
+        <file_path/>
+        <instance_id>9cd720bb6f5e7d404c327b2f5d3ee46e</instance_id>
+        <instance_name>dev10212</instance_name>
+        <name>question_choice_92e238992f427010c012bac62799b65f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref display_value="Concept/Idea">cc9ba4012f063010c012bac62799b62d</published_ref><question display_value="Solution Stage">dee238992f427010c012bac62799b653</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-17 10:32:20</sys_created_on><sys_id>92e238992f427010c012bac62799b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Concept/Idea</sys_name><sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package><sys_policy/><sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope><sys_update_name>question_choice_92e238992f427010c012bac62799b65f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-17 10:32:20</sys_updated_on><text>Concept/Idea</text><value>idea</value></question_choice><fx_price action="delete_multiple" query="id=92e238992f427010c012bac62799b65f"/></record_update>]]></payload>
+        <payload_hash>-996793849</payload_hash>
+        <record_name>Concept/Idea</record_name>
+        <reverted_from/>
+        <source>3b45ac492fc23010c012bac62799b674</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 10:32:20</sys_created_on>
+        <sys_id>d6e238992f427010c012bac62799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b53ab4b9e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 10:32:20</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>1ee2389972427010fe0b8da8a9b85d60</update_guid>
+        <update_guid_history>1ee2389972427010fe0b8da8a9b85d60:-996793849</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Concept/Idea">6a53fc992f427010c012bac62799b62e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-17 10:34:15</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>026cbb09640146408008bca819e5e400</sys_id>
+        <sys_metadata>92e238992f427010c012bac62799b65f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concept/Idea</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_parent display_value="">dee238992f427010c012bac62799b653</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">97e637d7b5a34226b10d176cfa6b0fc4</sys_scope_delete>
+        <sys_update_name>question_choice_92e238992f427010c012bac62799b65f</sys_update_name>
+        <sys_update_version display_value="question_choice_92e238992f427010c012bac62799b65f">d6e238992f427010c012bac62799b661</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-17 10:34:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

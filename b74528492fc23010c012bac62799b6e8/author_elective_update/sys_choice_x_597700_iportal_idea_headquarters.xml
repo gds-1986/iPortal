@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="headquarters" table="x_597700_iportal_idea" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>headquarters</element>
+            <name>x_597700_iportal_idea</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 15:11:29</sys_created_on>
+            <sys_id>fd39204d2fc23010c012bac62799b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>headquarters</sys_name>
+            <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+            <sys_update_name>sys_choice_x_597700_iportal_idea_headquarters</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 15:11:29</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>headquarters</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>India</label>
+            <language>en</language>
+            <name>x_597700_iportal_idea</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 15:11:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a729ec4d2fc23010c012bac62799b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 15:11:29</sys_updated_on>
+            <value>india</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>headquarters</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Overseas</label>
+            <language>en</language>
+            <name>x_597700_iportal_idea</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 15:11:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd49208d2fc23010c012bac62799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 15:11:45</sys_updated_on>
+            <value>overseas</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

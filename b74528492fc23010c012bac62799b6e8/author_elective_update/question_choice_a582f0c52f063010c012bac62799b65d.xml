@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref display_value="Live/Implemented">009b60012f063010c012bac62799b6d7</published_ref>
+        <question display_value="Solution Stage">ad82f0c52f063010c012bac62799b648</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 15:52:09</sys_created_on>
+        <sys_id>a582f0c52f063010c012bac62799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Live/Implemented</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_update_name>question_choice_a582f0c52f063010c012bac62799b65d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:52:09</sys_updated_on>
+        <text>Live/Implemented</text>
+        <value>live</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=a582f0c52f063010c012bac62799b65d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iPortal">b74528492fc23010c012bac62799b6e8</application>
+        <file_path/>
+        <instance_id>9cd720bb6f5e7d404c327b2f5d3ee46e</instance_id>
+        <instance_name>dev10212</instance_name>
+        <name>question_choice_a582f0c52f063010c012bac62799b65d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref display_value="Live/Implemented">009b60012f063010c012bac62799b6d7</published_ref><question display_value="Solution Stage">ad82f0c52f063010c012bac62799b648</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-16 15:52:09</sys_created_on><sys_id>a582f0c52f063010c012bac62799b65d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Live/Implemented</sys_name><sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package><sys_policy/><sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope><sys_update_name>question_choice_a582f0c52f063010c012bac62799b65d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-16 15:52:09</sys_updated_on><text>Live/Implemented</text><value>live</value></question_choice><fx_price action="delete_multiple" query="id=a582f0c52f063010c012bac62799b65d"/></record_update>]]></payload>
+        <payload_hash>802860812</payload_hash>
+        <record_name>Live/Implemented</record_name>
+        <reverted_from/>
+        <source>3b45ac492fc23010c012bac62799b674</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 15:52:09</sys_created_on>
+        <sys_id>2d82f0c52f063010c012bac62799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b4fa9be250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:52:09</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>6182f0c567063010433757a113f8265f</update_guid>
+        <update_guid_history>6182f0c567063010433757a113f8265f:802860812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Live/Implemented">e5d238c52f063010c012bac62799b6f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-16 15:53:31</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>1a0d694404a6497fa182fadcccb60bf9</sys_id>
+        <sys_metadata>a582f0c52f063010c012bac62799b65d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Live/Implemented</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_parent display_value="">ad82f0c52f063010c012bac62799b648</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">97e637d7b5a34226b10d176cfa6b0fc4</sys_scope_delete>
+        <sys_update_name>question_choice_a582f0c52f063010c012bac62799b65d</sys_update_name>
+        <sys_update_version display_value="question_choice_a582f0c52f063010c012bac62799b65d">2d82f0c52f063010c012bac62799b65f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

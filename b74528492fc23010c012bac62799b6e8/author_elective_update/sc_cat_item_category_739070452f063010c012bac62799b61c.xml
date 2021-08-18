@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Submit an Idea">acdf20052f063010c012bac62799b666</sc_cat_item>
+        <sc_category display_value="Services">4cb69d19c3921200b0449f2974d3ae69</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 15:43:50</sys_created_on>
+        <sys_id>739070452f063010c012bac62799b61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Submit an Idea</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_update_name>sc_cat_item_category_739070452f063010c012bac62799b61c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:43:50</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iPortal">b74528492fc23010c012bac62799b6e8</application>
+        <file_path/>
+        <instance_id>9cd720bb6f5e7d404c327b2f5d3ee46e</instance_id>
+        <instance_name>dev10212</instance_name>
+        <name>sc_cat_item_category_739070452f063010c012bac62799b61c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit an Idea">acdf20052f063010c012bac62799b666</sc_cat_item><sc_category display_value="Services">4cb69d19c3921200b0449f2974d3ae69</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-16 15:43:50</sys_created_on><sys_id>739070452f063010c012bac62799b61c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Submit an Idea</sys_name><sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package><sys_policy/><sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope><sys_update_name>sc_cat_item_category_739070452f063010c012bac62799b61c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-16 15:43:50</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>836387591</payload_hash>
+        <record_name>Services.Submit an Idea</record_name>
+        <reverted_from/>
+        <source>3b45ac492fc23010c012bac62799b674</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 15:43:51</sys_created_on>
+        <sys_id>bb9070452f063010c012bac62799b61f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b4fa223050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:43:51</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ff907045440630107c6ee4a2cc16b81e</update_guid>
+        <update_guid_history>ff907045440630107c6ee4a2cc16b81e:836387591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Submit an Idea">49d238c52f063010c012bac62799b6ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-08-16 15:53:29</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>6e627a3bb1df4bc09962a5b1d8dccce4</sys_id>
+        <sys_metadata>739070452f063010c012bac62799b61c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Submit an Idea</sys_name>
+        <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+        <sys_scope_delete display_value="">97e637d7b5a34226b10d176cfa6b0fc4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_739070452f063010c012bac62799b61c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_739070452f063010c012bac62799b61c">bb9070452f063010c012bac62799b61f</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-08-16 15:53:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

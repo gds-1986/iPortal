@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Idea" max_length="40" name="x_597700_iportal_idea" sizeclass="1" type="collection">
+        <element attributes="encode_utf8=false" label="Challenge" max_length="32" name="challenge" reference="kb_knowledge" reference_qual="kb_knowledge_base=f0df13412f4e3010c012bac62799b6df^EQ" reference_qual_condition="kb_knowledge_base=f0df13412f4e3010c012bac62799b6df^EQ" type="reference"/>
+        <element label="Number of Clients in India" max_length="40" name="clients" type="integer"/>
+        <element label="Cost for Implementation" max_length="20" name="cost_for_implementation" type="currency"/>
+        <element label="Number of Employees" max_length="40" name="employees" type="integer"/>
+        <element choice="1" label="Evaluation Stage" max_length="40" name="evaluation_stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Stage 1" sequence="10" value="stage1"/>
+                <element inactive_on_update="false" label="Stage 2" sequence="20" value="stage2"/>
+                <element inactive_on_update="false" label="Stage 3" sequence="30" value="stage3"/>
+            </choice>
+        </element>
+        <element choice="3" label="Headquarters" max_length="40" name="headquarters" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="10" value="india"/>
+                <element inactive_on_update="false" label="Overseas" sequence="20" value="overseas"/>
+            </choice>
+        </element>
+        <element label="Revenue" max_length="20" name="revenue" type="currency"/>
+        <element label="Solution Description" max_length="500" name="solution_description" type="string"/>
+        <element choice="3" default="idea" label="Solution Stage" max_length="40" name="solution_stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Live/Implemented" sequence="10" value="live"/>
+                <element inactive_on_update="false" label="Concept/Idea" sequence="20" value="idea"/>
+            </choice>
+        </element>
+        <element label="Technology Stack" max_length="400" name="technology_stack" type="string"/>
+    </element>
+</database>
