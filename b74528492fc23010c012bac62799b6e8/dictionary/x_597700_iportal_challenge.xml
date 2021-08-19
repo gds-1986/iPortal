@@ -5,6 +5,7 @@
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="400" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test Colum" max_length="40" name="test_colum" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

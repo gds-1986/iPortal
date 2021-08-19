@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Idea" max_length="40" name="x_597700_iportal_idea" sizeclass="1" type="collection">
+    <element audit="true" extends="task" label="Idea" max_length="40" name="x_597700_iportal_idea" sizeclass="3" type="collection">
         <element attributes="encode_utf8=false" label="Challenge" max_length="32" name="challenge" reference="kb_knowledge" reference_qual="kb_knowledge_base=f0df13412f4e3010c012bac62799b6df^EQ" reference_qual_condition="kb_knowledge_base=f0df13412f4e3010c012bac62799b6df^EQ" type="reference"/>
         <element label="Number of Clients in India" max_length="40" name="clients" type="integer"/>
         <element label="Cost for Implementation" max_length="20" name="cost_for_implementation" type="currency"/>
