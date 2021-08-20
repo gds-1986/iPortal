@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test12345" label="Test12345" language="en" table="x_597700_iportal_challenge">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test12345</element>
+            <help/>
+            <hint/>
+            <label>Test12345</label>
+            <language>en</language>
+            <name>x_597700_iportal_challenge</name>
+            <plural>Test12345s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-20 12:10:11</sys_created_on>
+            <sys_id>0916e8562fc63410c012bac62799b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test12345</sys_name>
+            <sys_package display_value="iPortal" source="x_597700_iportal">b74528492fc23010c012bac62799b6e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
+            <sys_update_name>sys_documentation_x_597700_iportal_challenge_test12345_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-20 12:10:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

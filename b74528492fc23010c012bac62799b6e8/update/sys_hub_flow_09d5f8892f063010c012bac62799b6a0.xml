@@ -12,7 +12,7 @@
         <description/>
         <internal_name>idea_evaluation</internal_name>
         <label_cache>[{"name":"649afb78-c6af-46c7-b6b5-b3216f2033a2.table_name","label":"10➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"649afb78-c6af-46c7-b6b5-b3216f2033a2.record","label":"10➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9314525a-4b60-4b55-92a1-ec7e2667c345.table_name","label":"8➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9314525a-4b60-4b55-92a1-ec7e2667c345.record","label":"8➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"af48724b-cc49-48f2-942d-32b295d80924.table_name","label":"12➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"af48724b-cc49-48f2-942d-32b295d80924.record","label":"12➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current.employees","label":"Trigger➛Idea Record➛Number of Employees","reference":"","reference_display":"Number of Employees","type":"integer","base_type":"integer","parent_table_name":"x_597700_iportal_idea","column_name":"employees"},{"name":"Created_1.current.revenue","label":"Trigger➛Idea Record➛Revenue","reference":"","reference_display":"Revenue","type":"currency","base_type":"currency","parent_table_name":"x_597700_iportal_idea","column_name":"revenue"},{"name":"Created_1.current.cost_for_implementation","label":"Trigger➛Idea Record➛Cost for Implementation","reference":"","reference_display":"Cost for Implementation","type":"currency","base_type":"currency","parent_table_name":"x_597700_iportal_idea","column_name":"cost_for_implementation"},{"name":"Created_1.current.headquarters","label":"Trigger➛Idea Record➛Headquarters","reference":"","reference_display":"Headquarters","type":"choice","base_type":"choice","parent_table_name":"x_597700_iportal_idea","column_name":"headquarters"},{"name":"Created_1.current.solution_stage","label":"Trigger➛Idea Record➛Solution Stage","reference":"","reference_display":"Solution Stage","type":"choice","base_type":"choice","parent_table_name":"x_597700_iportal_idea","column_name":"solution_stage"},{"name":"e849db2a-bf02-4abf-ac15-9f75d0eda763.record","label":"2➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e849db2a-bf02-4abf-ac15-9f75d0eda763.table_name","label":"2➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current","label":"Trigger➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{}},{"name":"4823133f-1469-4556-90c5-dfa503583e64.record","label":"14➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4823133f-1469-4556-90c5-dfa503583e64.table_name","label":"14➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0913f551-2818-49f4-b3c5-98e44cc8572d.approval_state","label":"3➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"{{static.5137153cc611227c000bbd1bd8cd2005}}","label":"Fred Luddy","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"{{static.62826bf03710200044e0bfc8bcbe5df1}}","label":"Abel Tuter (Architect)","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"e21b4dd8-3c51-48fa-b8e1-bee76a1f5cd2.approval_state","label":"6➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"{{static.a8f98bb0eb32010045e1a5115206fe3a}}","label":"Abraham Lincoln","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"3c55cc9a-6586-439a-895b-fafbb9b63af9.record","label":"5➛Idea Record","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3c55cc9a-6586-439a-895b-fafbb9b63af9.table_name","label":"5➛Idea Table","reference":"x_597700_iportal_idea","reference_display":"Idea","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
-        <latest_snapshot>909afc8d2f063010c012bac62799b617</latest_snapshot>
+        <latest_snapshot>f909885a2f463410c012bac62799b6f5</latest_snapshot>
         <master_snapshot>909afc8d2f063010c012bac62799b617</master_snapshot>
         <name>Idea Evaluation</name>
         <natlang/>
@@ -333,10 +333,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:27:04</sys_created_on>
         <sys_id>058a3c8d2f063010c012bac62799b6fa</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>af48724b-cc49-48f2-942d-32b295d80924</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=058a3c8d2f063010c012bac62799b6fa"/>
@@ -420,10 +420,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:21:15</sys_created_on>
         <sys_id>3f29b84d2f063010c012bac62799b687</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>e849db2a-bf02-4abf-ac15-9f75d0eda763</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3f29b84d2f063010c012bac62799b687"/>
@@ -507,10 +507,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:27:04</sys_created_on>
         <sys_id>818a3c8d2f063010c012bac62799b6ef</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>649afb78-c6af-46c7-b6b5-b3216f2033a2</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=818a3c8d2f063010c012bac62799b6ef"/>
@@ -594,10 +594,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:21:15</sys_created_on>
         <sys_id>8839b84d2f063010c012bac62799b6d8</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>3c55cc9a-6586-439a-895b-fafbb9b63af9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8839b84d2f063010c012bac62799b6d8"/>
@@ -681,10 +681,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:21:15</sys_created_on>
         <sys_id>bb29b84d2f063010c012bac62799b68f</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>0913f551-2818-49f4-b3c5-98e44cc8572d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bb29b84d2f063010c012bac62799b68f"/>
@@ -832,10 +832,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:21:16</sys_created_on>
         <sys_id>c039b84d2f063010c012bac62799b6df</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>e21b4dd8-3c51-48fa-b8e1-bee76a1f5cd2</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c039b84d2f063010c012bac62799b6df"/>
@@ -983,10 +983,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:27:04</sys_created_on>
         <sys_id>c18a3c8d2f063010c012bac62799b6e6</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:28</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>9314525a-4b60-4b55-92a1-ec7e2667c345</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c18a3c8d2f063010c012bac62799b6e6"/>
@@ -1070,10 +1070,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:21:16</sys_created_on>
         <sys_id>c839b84d2f063010c012bac62799b6ec</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="iPortal">b74528492fc23010c012bac62799b6e8</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-19 06:11:29</sys_updated_on>
+        <sys_updated_on>2021-08-20 10:03:17</sys_updated_on>
         <ui_id>4823133f-1469-4556-90c5-dfa503583e64</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c839b84d2f063010c012bac62799b6ec"/>
@@ -1575,7 +1575,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"199a30cd2f063010c012bac62799b627","name":"plan"}}</plan>
         <plan_id>09d5f8892f063010c012bac62799b6a0</plan_id>
-        <snapshot>909afc8d2f063010c012bac62799b617</snapshot>
+        <snapshot>f909885a2f463410c012bac62799b6f5</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-16 16:27:22</sys_created_on>
         <sys_domain>global</sys_domain>
